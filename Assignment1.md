@@ -17,6 +17,10 @@
 
   2. Inspect element
   3. Click on magnifying glass and hover over hero image
-  4. Container should be “<div class=“rlHeroSection michelle-g-hero”>…"
+  4. Container should be:
+  
+  ```javascript
+  <div class=“rlHeroSection michelle-g-hero”>;
+  ```
 
 5. 165 instances - HTMLCollection[165]

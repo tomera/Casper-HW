@@ -7,3 +7,7 @@
 5. $(".subMenuLink.sports.hdn-analytics").html(function(){
     $(".subMenuLink.sports.hdn-analytics").html("SPORTS HOUR");
   });
+6. $("#nav-signin-title.nav-button-line1").html(function(){
+    $("#nav-signin-title.nav-button-line1").html("Yo, Tomera");
+  });
+7. 
